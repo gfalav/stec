@@ -32,6 +32,4 @@ ActiveRecord::Schema.define(:version => 20110520113457) do
     t.datetime "updated_at"
   end
 
-  add_index "tasks", ["dtask"], :name => "dtask_idx"
-
 end

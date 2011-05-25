@@ -1,0 +1,48 @@
+<h1>Listing tasks</h1>
+
+<table>
+  <tr>
+    <th>Tareas</th>
+    <th>Ene</th>
+    <th>Feb</th>
+    <th>Mar</th>
+    <th>Abr</th>
+    <th>May</th>
+    <th>Jun</th>
+    <th>Jul</th>
+    <th>Ago</th>
+    <th>Set</th>
+    <th>Oct</th>
+    <th>Nov</th>
+    <th>Dic</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @res.each do |res| %>
+  <tr>
+    <td><%= raw(res['name']) %></td>
+	<% if res['m1'][:tplan]!=nil%>
+    	<td><%= res['m1'][:tplan].to_s + '/' + res['m1'][:treal].to_s %></td>
+	<% else %>
+		<td></td>
+	<% end %>
+    <td><%= raw(res['m2']) %></td>
+    <td><%= raw(res['m3']) %></td>
+    <td><%= raw(res['m4']) %></td>
+    <td><%= raw(res['m5']) %></td>
+    <td><%= raw(res['m6']) %></td>
+    <td><%= raw(res['m7']) %></td>
+    <td><%= raw(res['m8']) %></td>
+    <td><%= raw(res['m9']) %></td>
+    <td><%= raw(res['m10']) %></td>
+    <td><%= raw(res['m11']) %></td>
+    <td><%= raw(res['m12']) %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Task', new_task_path %>

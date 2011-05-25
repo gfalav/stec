@@ -3,7 +3,7 @@ class TasksController < ApplicationController
   # GET tasks en jerarquia - Informe de Avance
   def avance
     #inicializacion
-    res = Array.new
+    @res = Array.new
     
     #verif parametros
     if (params[:anio]==nil)
@@ -15,18 +15,26 @@ class TasksController < ApplicationController
     ffin = Date.new(anio,12,31)
     
     #ejecución recursiva
-    avance_recursive(Account.find(1), res, fini, ffin,'')
+    avance_recursive(Account.find(1), @res, fini, ffin,'')
 
-    render :xml => res.to_xml
+    #render :text => res
   end
   
   def avance_recursive(account, res, fini, ffin, namerad)
-    namerad = namerad + '-'
+    namerad = namerad + '&nbsp;&nbsp;'
     
-    res << Task.new.getavance(account, fini, ffin, namerad)
+    if (account.children.count!=0)
+      if (account.children[0].children.count!=0)
+        res << Task.new.getavance(account, fini, ffin, namerad)
+      else
+        res << Task.new.getavance(account, fini, ffin, namerad)
+      end
+    else
+      res << Task.new.getavance(account, fini, ffin, namerad)
+    end
     
     account.children.each { |a|
-      avance_recursive(a,res, fini, ffin, namerad)       
+      avance_recursive(a,res, fini, ffin, namerad)
     }
     
   end
