@@ -1,0 +1,371 @@
+Mant Acometida      @E3    @Relevamiento y contraste medidor AP        @201101@            6@        4@          360                                  
+Mant Acometida      @E3    @Relevamiento y contraste medidor AP        @201101@            1@        6@          540                                  
+Mant Acometida      @E3    @Relevamiento y contraste medidor AP        @201101@            3@        1@           90                                  
+Mant Acometida      @E3    @Relevamiento y contraste medidor AP        @201101@            2@       34@         3060                                  
+Mant Acometida      @E3    @Relevamiento y contraste medidor AP        @201101@            5@        5@          450                                  
+Mant Acometida      @E3    @Relevamiento y contraste medidor AP        @201103@            1@       57@         5130                                  
+Mant Acometida      @E3    @Relevamiento y contraste medidor AP        @201103@            2@       20@         1800                                  
+Mant Acometida      @E3    @Relevamiento y contraste medidor AP        @201103@            7@        5@          450                                  
+Mant Acometida      @E3    @Relevamiento y contraste medidor AP        @201104@            7@        4@          360                                  
+Mant Acometida      @E3    @Relevamiento y contraste medidor AP        @201104@            6@        5@          450                                  
+Mant Acometida      @E3    @Relevamiento y contraste medidor AP        @201104@            2@       34@         3060                                  
+Mant Acometida      @E3    @Relevamiento y contraste medidor AP        @201104@            1@       76@         6840                                  
+Mant Acometida      @E3    @Relevamiento y contraste medidor AP        @201105@            2@       16@         1440                                  
+Mant Acometida      @E3    @Relevamiento y contraste medidor AP        @201105@            1@       35@         3150                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201101@            2@        3@           36                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201101@            3@        4@           48                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201101@            7@        1@           12                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201101@            6@        4@           48                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201101@            1@        3@           36                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201102@            1@        6@           72                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201102@            3@        2@           24                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201103@            6@        1@           12                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201103@            1@        4@           48                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201103@            3@        2@           24                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201103@            2@        2@           24                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201103@            7@        3@           36                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201104@            7@        4@           48                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201104@            3@        2@           24                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201104@            6@        6@           72                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201104@            2@        3@           36                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201105@            1@        2@           24                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201105@            3@        4@           48                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201105@            2@        2@           24                                  
+Mant Acometida      @E5    @Normalizacion equipos de medicion          @201105@            6@        1@           12                                  
+Gestion de Perdidas @F1    @Revision suministros 10kW < P <=50kW       @201101@            3@        3@          270                                  
+Gestion de Perdidas @F1    @Revision suministros 10kW < P <=50kW       @201101@            5@        4@          360                                  
+Gestion de Perdidas @F1    @Revision suministros 10kW < P <=50kW       @201101@            6@       42@         3780                                  
+Gestion de Perdidas @F1    @Revision suministros 10kW < P <=50kW       @201101@            2@        1@           90                                  
+Gestion de Perdidas @F1    @Revision suministros 10kW < P <=50kW       @201101@            1@        7@          530                                  
+Gestion de Perdidas @F1    @Revision suministros 10kW < P <=50kW       @201102@            1@        7@          630                                  
+Gestion de Perdidas @F1    @Revision suministros 10kW < P <=50kW       @201103@            2@       22@         1980                                  
+Gestion de Perdidas @F1    @Revision suministros 10kW < P <=50kW       @201103@            1@       88@         7920                                  
+Gestion de Perdidas @F1    @Revision suministros 10kW < P <=50kW       @201103@            7@       17@         1530                                  
+Gestion de Perdidas @F1    @Revision suministros 10kW < P <=50kW       @201104@            2@       15@         1350                                  
+Gestion de Perdidas @F1    @Revision suministros 10kW < P <=50kW       @201104@            7@       19@         1710                                  
+Gestion de Perdidas @F1    @Revision suministros 10kW < P <=50kW       @201104@            1@       77@         6930                                  
+Gestion de Perdidas @F1    @Revision suministros 10kW < P <=50kW       @201105@            2@       33@         2970                                  
+Gestion de Perdidas @F1    @Revision suministros 10kW < P <=50kW       @201105@            1@       46@         4140                                  
+Gestion de Perdidas @F2    @Revision suministros P > 50kW              @201101@            3@        1@           90                                  
+Gestion de Perdidas @F2    @Revision suministros P > 50kW              @201101@            5@        7@          630                                  
+Gestion de Perdidas @F2    @Revision suministros P > 50kW              @201101@            6@        6@          540                                  
+Gestion de Perdidas @F2    @Revision suministros P > 50kW              @201101@            1@        6@          540                                  
+Gestion de Perdidas @F2    @Revision suministros P > 50kW              @201101@            2@       36@         3240                                  
+Gestion de Perdidas @F2    @Revision suministros P > 50kW              @201103@            2@       37@         3330                                  
+Gestion de Perdidas @F2    @Revision suministros P > 50kW              @201103@            7@        5@          450                                  
+Gestion de Perdidas @F2    @Revision suministros P > 50kW              @201103@            1@       74@         6660                                  
+Gestion de Perdidas @F2    @Revision suministros P > 50kW              @201104@            1@       83@         7470                                  
+Gestion de Perdidas @F2    @Revision suministros P > 50kW              @201104@            2@       58@         5220                                  
+Gestion de Perdidas @F2    @Revision suministros P > 50kW              @201104@            7@        8@          720                                  
+Gestion de Perdidas @F2    @Revision suministros P > 50kW              @201105@            1@       46@         4140                                  
+Gestion de Perdidas @F2    @Revision suministros P > 50kW              @201105@            2@       26@         2340                                  
+Mant Acometida      @H1    @Cambios de medidor (antiguos; Trif)        @201102@            5@        1@           25                                  
+Mant Acometida      @H2    @Cambios de medidor (antiguos; Monof)       @201101@            1@        3@           75                                  
+Mant Acometida      @H2    @Cambios de medidor (antiguos; Monof)       @201101@            2@        3@           75                                  
+Mant Acometida      @H2    @Cambios de medidor (antiguos; Monof)       @201102@            1@        1@           25                                  
+Mant Acometida      @H2    @Cambios de medidor (antiguos; Monof)       @201103@            2@        1@           25                                  
+Mant Acometida      @H2    @Cambios de medidor (antiguos; Monof)       @201105@            2@        5@          125                                  
+Mant Acometida      @H2    @Cambios de medidor (antiguos; Monof)       @201105@            1@        1@           25                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201101@            3@        1@           25                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201101@            1@       26@          650                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201101@            7@        3@           75                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201101@            5@        5@          125                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201101@            2@       16@          400                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201102@            3@        5@          125                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201102@            5@       10@          250                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201102@            1@       46@         1220                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201102@            2@        6@          150                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201102@            6@        1@           25                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201102@            7@        1@           25                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201103@            5@        6@          150                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201103@            7@        4@          195                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201103@            1@       37@          925                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201103@            6@        4@          205                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201103@            2@       16@          400                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201103@            3@        5@          125                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201104@            3@        5@          125                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201104@            1@       44@         1100                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201104@            7@        4@          195                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201104@            2@       23@          575                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201104@            6@        3@           75                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201105@            6@        1@           60                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201105@            2@        8@          200                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201105@            5@        2@           50                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201105@            3@        1@           25                                  
+Mant Acometida      @H3    @Cambios de medidor                         @201105@            1@        8@          200                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201101@            6@       59@         3540                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201101@            5@       49@         2940                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201101@            7@       41@         2460                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201101@            3@       76@         4560                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201101@            2@      122@         7320                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201101@            1@      656@        39360                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201102@            5@       48@         2880                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201102@            7@       31@         1860                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201102@            6@       84@         5040                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201102@            2@      136@         8160                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201102@            3@       84@         5040                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201102@            1@      417@        25020                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201103@            5@       23@         1380                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201103@            3@       78@         4680                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201103@            1@      431@        25860                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201103@            6@       53@         3180                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201103@            2@      134@         8040                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201103@            7@       41@         2460                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201104@            3@       93@         5580                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201104@            6@       64@         3840                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201104@            5@       32@         1920                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201104@            1@      465@        27900                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201104@            2@      181@        10860                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201104@            7@       21@         1260                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201105@            6@       30@         1800                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201105@            3@       88@         5280                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201105@            5@       14@          840                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201105@            2@      100@         6000                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201105@            7@       19@         1140                                  
+Comercial           @I     @Inspeccion de factibilidad y conexion NNSS @201105@            1@      240@        14400                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201101@            3@        1@           20                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201101@            2@       93@         1860                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201101@            1@        3@           60                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201102@            2@        1@           20                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201102@            3@        1@           20                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201102@            1@       10@          200                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201103@            2@       27@          540                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201103@            6@        1@           20                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201103@            3@        1@           20                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201103@            1@        6@          120                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201104@            3@        4@           80                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201104@            7@        1@           20                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201104@            1@        2@           40                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201105@            1@        8@          160                                  
+Mant Acometida      @J     @Colocacion de tapas de policarbonato       @201105@            2@       10@          200                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201101@            3@        8@          360                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201101@            1@        7@          315                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201102@            3@        8@          360                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201102@            2@        2@           90                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201102@            6@        4@          180                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201102@            1@        3@          135                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201103@            1@        3@          135                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201103@            3@        2@           90                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201103@            2@        4@          180                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201103@            6@        3@          135                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201104@            3@        4@          180                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201104@            1@        3@          135                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201105@            3@        1@           45                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201105@            1@        1@           45                                  
+Mant Acometida      @K     @Reemplazo de acometidas por concentrico    @201105@            2@        1@           45                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201101@            1@      346@         3129                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201101@            6@       21@         1275                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201101@            5@       19@          385                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201101@            7@        7@          345                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201101@            3@       23@          405                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201101@            2@       21@          445                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201102@            5@      118@         1905                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201102@            3@       38@          655                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201102@            1@      548@         4045                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201102@            2@       25@          565                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201102@            7@        6@          405                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201103@            2@       45@         1045                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201103@            1@      461@         5521                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201103@            5@       27@          415                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201103@            3@       20@          345                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201103@            7@       13@          630                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201103@            6@      122@         8940                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201104@            7@       10@          235                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201104@            1@      674@         4728                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201104@            3@        9@          195                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201104@            6@       38@         1680                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201104@            2@       74@         1405                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201104@            5@       18@          390                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201105@            2@       35@          655                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201105@            3@        3@           90                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201105@            1@      348@         2512                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201105@            7@        2@           30                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201105@            5@       17@          255                                  
+Gestion de Perdidas @L     @Revision de suministros detectando fraude  @201105@            6@        5@          300                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201101@            5@        3@           36                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201101@            2@        9@          108                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201101@            1@       15@          180                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201101@            3@        3@           36                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201101@            6@        4@           48                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201101@            7@        3@           36                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201102@            2@       13@          156                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201102@            7@        6@           72                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201102@            1@       20@          240                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201102@            3@        4@           48                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201102@            5@        6@           72                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201103@            1@      146@         1752                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201103@            2@       41@          492                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201103@            7@       11@          132                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201103@            6@       56@          672                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201103@            3@        9@          108                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201103@            5@        6@           72                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201104@            1@      109@         1308                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201104@            3@       18@          216                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201104@            2@       41@          492                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201104@            6@       31@          372                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201104@            7@        8@           96                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201105@            6@        9@          108                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201105@            7@        7@           84                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201105@            3@        1@           12                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201105@            2@       16@          192                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201105@            5@        3@           36                                  
+Gestion de Perdidas @N     @Revision de consumos 0                     @201105@            1@       51@          612                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201101@            3@        4@           48                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201101@            1@        3@           36                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201101@            2@        3@           36                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201101@            6@        4@           48                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201101@            7@        1@           12                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201102@            3@        2@           24                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201102@            1@        6@           72                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201103@            3@        2@           24                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201103@            1@        4@           48                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201103@            7@        3@           36                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201103@            2@        2@           24                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201103@            6@        1@           12                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201104@            7@        4@           48                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201104@            2@        3@           36                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201104@            3@        2@           24                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201104@            6@        6@           72                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201105@            6@        1@           12                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201105@            1@        2@           24                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201105@            2@        2@           24                                  
+Gestion de Perdidas @O     @Inspeccion y normalizacion sum peq demandas@201105@            3@        4@           48                                  
+Mant Acometida      @P     @Normalizacion de Gabinetes de Edificio     @201101@            6@        1@           60                                  
+Mant Acometida      @P     @Normalizacion de Gabinetes de Edificio     @201101@            7@        2@          600                                  
+Mant Acometida      @P     @Normalizacion de Gabinetes de Edificio     @201102@            7@        1@          300                                  
+Mant Acometida      @P     @Normalizacion de Gabinetes de Edificio     @201102@            1@        1@          300                                  
+Mant Acometida      @P     @Normalizacion de Gabinetes de Edificio     @201103@            7@        1@          300                                  
+Mant Acometida      @P     @Normalizacion de Gabinetes de Edificio     @201104@            7@        7@         2100                                  
+Mant Acometida      @P     @Normalizacion de Gabinetes de Edificio     @201104@            1@        1@          300                                  
+Mant Acometida      @Q     @Contraste de medidores trifasicos T1       @201101@            3@        2@          180                                  
+Mant Acometida      @Q     @Contraste de medidores trifasicos T1       @201101@            6@        6@          540                                  
+Mant Acometida      @Q     @Contraste de medidores trifasicos T1       @201101@            1@      163@         6620                                  
+Mant Acometida      @Q     @Contraste de medidores trifasicos T1       @201102@            1@       39@         1710                                  
+Mant Acometida      @Q     @Contraste de medidores trifasicos T1       @201103@            1@       51@         3540                                  
+Mant Acometida      @Q     @Contraste de medidores trifasicos T1       @201103@            2@        1@           90                                  
+Mant Acometida      @Q     @Contraste de medidores trifasicos T1       @201104@            6@        8@          720                                  
+Mant Acometida      @Q     @Contraste de medidores trifasicos T1       @201104@            1@       14@         1260                                  
+Mant Acometida      @Q     @Contraste de medidores trifasicos T1       @201105@            1@       13@         1170                                  
+Comercial           @RC    @Reclamos comerciales                       @201101@            3@       10@          311                                  
+Comercial           @RC    @Reclamos comerciales                       @201101@            5@        3@           36                                  
+Comercial           @RC    @Reclamos comerciales                       @201101@            6@       15@          253                                  
+Comercial           @RC    @Reclamos comerciales                       @201101@            1@       98@         1286                                  
+Comercial           @RC    @Reclamos comerciales                       @201101@            7@        7@           86                                  
+Comercial           @RC    @Reclamos comerciales                       @201101@            2@       33@          424                                  
+Comercial           @RC    @Reclamos comerciales                       @201102@            2@       50@          511                                  
+Comercial           @RC    @Reclamos comerciales                       @201102@            7@       11@          112                                  
+Comercial           @RC    @Reclamos comerciales                       @201102@            1@       99@         1387                                  
+Comercial           @RC    @Reclamos comerciales                       @201102@            6@       13@          245                                  
+Comercial           @RC    @Reclamos comerciales                       @201102@            5@       14@          164                                  
+Comercial           @RC    @Reclamos comerciales                       @201102@            3@       15@          388                                  
+Comercial           @RC    @Reclamos comerciales                       @201103@            7@       23@          282                                  
+Comercial           @RC    @Reclamos comerciales                       @201103@            1@      295@         3755                                  
+Comercial           @RC    @Reclamos comerciales                       @201103@            3@       15@          295                                  
+Comercial           @RC    @Reclamos comerciales                       @201103@            6@       93@         1372                                  
+Comercial           @RC    @Reclamos comerciales                       @201103@            2@       70@          829                                  
+Comercial           @RC    @Reclamos comerciales                       @201103@            5@        6@           72                                  
+Comercial           @RC    @Reclamos comerciales                       @201104@            7@       14@          201                                  
+Comercial           @RC    @Reclamos comerciales                       @201104@            1@      251@         3013                                  
+Comercial           @RC    @Reclamos comerciales                       @201104@            2@       64@          794                                  
+Comercial           @RC    @Reclamos comerciales                       @201104@            3@       32@          520                                  
+Comercial           @RC    @Reclamos comerciales                       @201104@            6@       63@          778                                  
+Comercial           @RC    @Reclamos comerciales                       @201105@            6@       14@          208                                  
+Comercial           @RC    @Reclamos comerciales                       @201105@            5@        5@           60                                  
+Comercial           @RC    @Reclamos comerciales                       @201105@            7@       14@          224                                  
+Comercial           @RC    @Reclamos comerciales                       @201105@            2@       23@          257                                  
+Comercial           @RC    @Reclamos comerciales                       @201105@            1@      100@         1337                                  
+Comercial           @RC    @Reclamos comerciales                       @201105@            3@        5@          167                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201101@            2@       59@         2655                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201101@            6@       14@          630                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201101@            3@       48@         2160                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201101@            1@      277@        12465                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201101@            7@       18@          810                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201102@            3@        9@          405                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201102@            5@       23@         1035                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201102@            7@        9@          405                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201102@            6@       30@         1350                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201102@            1@      246@        11070                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201102@            2@       34@         1530                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201103@            7@        8@          360                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201103@            2@       69@         3105                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201103@            6@       17@          765                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201103@            1@      512@        23040                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201103@            5@        3@          135                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201103@            3@       24@         1080                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201104@            1@      298@        13410                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201104@            3@       21@          945                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201104@            7@        5@          225                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201104@            6@       30@         1350                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201104@            5@       45@         2025                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201104@            2@       79@         3555                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201105@            6@        1@           45                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201105@            2@       56@         2520                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201105@            5@       24@         1080                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201105@            3@       12@          540                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201105@            1@      155@         6975                                  
+Gestion de Impagados@S1    @Levantamientos por impago                  @201105@            7@       12@          540                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201101@            1@      358@         7160                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201101@            2@      289@         5780                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201101@            5@       97@         1940                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201101@            6@      248@         4960                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201101@            3@      112@         2240                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201101@            7@      112@         2240                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201102@            7@      108@         2160                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201102@            3@      130@         2600                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201102@            5@       46@          920                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201102@            1@      691@        13820                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201102@            2@      233@         4660                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201102@            6@       65@         1300                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201103@            7@      117@         2340                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201103@            3@      268@         5360                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201103@            6@      251@         5020                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201103@            2@      319@         6380                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201103@            1@     1276@        25520                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201103@            5@       51@         1020                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201104@            7@      112@         2240                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201104@            6@      207@         4140                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201104@            2@      336@         6720                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201104@            3@      402@         8040                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201104@            5@      133@         2660                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201104@            1@     1494@        29880                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201105@            6@       31@          620                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201105@            1@     1019@        20380                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201105@            3@      208@         4160                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201105@            2@      208@         4160                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201105@            5@       97@         1940                                  
+Gestion de Impagados@S2    @Rehabilitaciones                           @201105@            7@       56@         1120                                  
+Gestion de Impagados@S3    @Suspensiones                               @201101@            5@       95@         1425                                  
+Gestion de Impagados@S3    @Suspensiones                               @201101@            6@      289@         4335                                  
+Gestion de Impagados@S3    @Suspensiones                               @201101@            7@      128@         1920                                  
+Gestion de Impagados@S3    @Suspensiones                               @201101@            1@      334@         5010                                  
+Gestion de Impagados@S3    @Suspensiones                               @201101@            2@      403@         6045                                  
+Gestion de Impagados@S3    @Suspensiones                               @201101@            3@      117@         1755                                  
+Gestion de Impagados@S3    @Suspensiones                               @201102@            1@      761@        11415                                  
+Gestion de Impagados@S3    @Suspensiones                               @201102@            3@      151@         2265                                  
+Gestion de Impagados@S3    @Suspensiones                               @201102@            7@      131@         1965                                  
+Gestion de Impagados@S3    @Suspensiones                               @201102@            2@      223@         3345                                  
+Gestion de Impagados@S3    @Suspensiones                               @201102@            6@       37@          555                                  
+Gestion de Impagados@S3    @Suspensiones                               @201102@            5@       49@          735                                  
+Gestion de Impagados@S3    @Suspensiones                               @201103@            2@      371@         5565                                  
+Gestion de Impagados@S3    @Suspensiones                               @201103@            3@      343@         5145                                  
+Gestion de Impagados@S3    @Suspensiones                               @201103@            7@       98@         1470                                  
+Gestion de Impagados@S3    @Suspensiones                               @201103@            6@      334@         5010                                  
+Gestion de Impagados@S3    @Suspensiones                               @201103@            5@       72@         1080                                  
+Gestion de Impagados@S3    @Suspensiones                               @201103@            1@     1737@        26055                                  
+Gestion de Impagados@S3    @Suspensiones                               @201104@            1@     1624@        24360                                  
+Gestion de Impagados@S3    @Suspensiones                               @201104@            7@      114@         1710                                  
+Gestion de Impagados@S3    @Suspensiones                               @201104@            2@      338@         5070                                  
+Gestion de Impagados@S3    @Suspensiones                               @201104@            6@      156@         2340                                  
+Gestion de Impagados@S3    @Suspensiones                               @201104@            3@      344@         5160                                  
+Gestion de Impagados@S3    @Suspensiones                               @201104@            5@      120@         1800                                  
+Gestion de Impagados@S3    @Suspensiones                               @201105@            3@      237@         3555                                  
+Gestion de Impagados@S3    @Suspensiones                               @201105@            6@       19@          285                                  
+Gestion de Impagados@S3    @Suspensiones                               @201105@            2@      252@         3780                                  
+Gestion de Impagados@S3    @Suspensiones                               @201105@            5@      109@         1635                                  
+Gestion de Impagados@S3    @Suspensiones                               @201105@            7@       78@         1170                                  
+Gestion de Impagados@S3    @Suspensiones                               @201105@            1@     1276@        19140                                  
+Comercial           @T     @Provisorios                                @201102@            1@        6@          800                                  
+Comercial           @T     @Provisorios                                @201103@            1@        5@          200                                  
+Comercial           @T     @Provisorios                                @201104@            1@        1@           40                                  
+Comercial           @T     @Provisorios                                @201104@            2@        1@           40                                  
+Comercial           @T     @Provisorios                                @201105@            1@        1@           40                                  
