@@ -25,9 +25,9 @@ class TasksController < ApplicationController
     
     if (account.children.count!=0)
       if (account.children[0].children.count!=0)
-        res << Task.new.getavance(account, fini, ffin, namerad)
+        res << Task.new.getavanceonlytask(account, fini, ffin, namerad)
       else
-        res << Task.new.getavance(account, fini, ffin, namerad)
+        res << Task.new.getavanceacum(account, fini, ffin, namerad)
       end
     else
       res << Task.new.getavance(account, fini, ffin, namerad)

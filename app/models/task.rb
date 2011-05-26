@@ -14,7 +14,11 @@ class Task < ActiveRecord::Base
       t = Task.where(:account_id=>account.id,:dtask=>f1..f2)[0]
 
       if (t!= nil)
-        h.store("m"+n.to_s, t)
+        if (t.treal != nil && t.tplan != nil)
+          h.store("m"+n.to_s, t.treal.to_i.to_s + '/' + t.tplan.to_i.to_s + '<br/>' + (t.treal/t.tplan).round(1).to_s + '%')
+        else
+          h.store("m"+n.to_s, t.treal.to_i.to_s + '/' + t.tplan.to_i.to_s)
+        end
       else
         h.store("m"+n.to_s, Task.new)
       end
@@ -91,15 +95,26 @@ class Task < ActiveRecord::Base
       h['m12'] = m['12'].to_i.to_s + '/' + n['12'].to_i.to_s + "<br/>" + 0.to_s+'%'
     end
     if (n['1']+n['2']+n['3']+n['4']+n['5']+n['6']+n['7']+n['8']+n['9']+n['10']+n['11']+n['12'])!=0
-      h[:tot] = (m['1']+m['2']+m['3']+m['4']+m['5']+m['6']+m['7']+m['8']+m['9']+m['10']+m['11']+m['12']).to_i.to_s + '/'
-      h[:tot] = h[:tot] + (n['1']+n['2']+n['3']+n['4']+n['5']+n['6']+n['7']+n['8']+n['9']+n['10']+n['11']+n['12']).to_i.to_s + "<br/>"
-      h[:tot] = h[:tot] + ((m['1']+m['2']+m['3']+m['4']+m['5']+m['6']+m['7']+m['8']+m['9']+m['10']+m['11']+m['12'])/(n['1']+n['2']+n['3']+n['4']+n['5']+n['6']+n['7']+n['8']+n['9']+n['10']+n['11']+n['12'])*100).round(0).to_s+'%'
+      h['tot'] = (m['1']+m['2']+m['3']+m['4']+m['5']+m['6']+m['7']+m['8']+m['9']+m['10']+m['11']+m['12']).to_i.to_s + '/'
+      h['tot'] = h['tot'] + (n['1']+n['2']+n['3']+n['4']+n['5']+n['6']+n['7']+n['8']+n['9']+n['10']+n['11']+n['12']).to_i.to_s + "<br/>"
+      h['tot'] = h['tot'] + ((m['1']+m['2']+m['3']+m['4']+m['5']+m['6']+m['7']+m['8']+m['9']+m['10']+m['11']+m['12'])/(n['1']+n['2']+n['3']+n['4']+n['5']+n['6']+n['7']+n['8']+n['9']+n['10']+n['11']+n['12'])*100).round(0).to_s+'%'
     else
-      h[:tot] = 0.to_s+'%'
+      h['tot'] = 0.to_s+'%'
     end
     
     return h
   end
 
+  def getavanceonlytask(account, fini, ffin, namerad)
 
+    h = Hash.new
+    
+    h.store("name",namerad + account.name)
+    
+    for n in 1..12
+        h.store("m"+n.to_s, '')
+    end
+    
+    return h
+  end
 end
