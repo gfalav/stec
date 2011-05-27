@@ -1,44 +1,45 @@
-<h1>Listing tasks</h1>
+<h1>Servicio T&eacute;cnico - Avance de Metas</h1>
 
 <div id="metas">
 	<table>
 	  <tr>
-	    <th class="cuentas">Tareas</th>
-	    <th>Ene</th>
-	    <th>Feb</th>
-	    <th>Mar</th>
-	    <th>Abr</th>
-	    <th>May</th>
-	    <th>Jun</th>
-	    <th>Jul</th>
-	    <th>Ago</th>
-	    <th>Set</th>
-	    <th>Oct</th>
-	    <th>Nov</th>
-	    <th>Dic</th>
-	    <th>Tot</th>
+	    <th class="cabecera">Tareas</th>
+	    <th class="cabecera">Ene</th>
+	    <th class="cabecera">Feb</th>
+	    <th class="cabecera">Mar</th>
+	    <th class="cabecera">Abr</th>
+	    <th class="cabecera">May</th>
+	    <th class="cabecera">Jun</th>
+	    <th class="cabecera">Jul</th>
+	    <th class="cabecera">Ago</th>
+	    <th class="cabecera">Set</th>
+	    <th class="cabecera">Oct</th>
+	    <th class="cabecera">Nov</th>
+	    <th class="cabecera">Dic</th>
+	    <th class="cabecera">Tot</th>
 	  </tr>
 	
 	<% @res.each do |res| %>
 	  <tr class="<%=cycle('list-line-odd','list-line-even')%>">
-	    <td class="cuentas"><%= raw(res['name']) %></td>
-	    <td><%= raw(res['m1']) %></td>
-	    <td><%= raw(res['m2']) %></td>
-	    <td><%= raw(res['m3']) %></td>
-	    <td><%= raw(res['m4']) %></td>
-	    <td><%= raw(res['m5']) %></td>
-	    <td><%= raw(res['m6']) %></td>
-	    <td><%= raw(res['m7']) %></td>
-	    <td><%= raw(res['m8']) %></td>
-	    <td><%= raw(res['m9']) %></td>
-	    <td><%= raw(res['m10']) %></td>
-	    <td><%= raw(res['m11']) %></td>
-	    <td><%= raw(res['m12']) %></td>
-	    <td><%= raw(res['tot']) %></td>
+	    <td class="cuentas"><%= link_to(raw(res['name']),:controller=>'tasks',:action=>'avance',:account_id=>res['account'][:id]) %></td>
+	    <% if res['t1']!=nil%>
+			<td class="datos"><%= link_to(raw(res['m1']),:controller=>'tasks',:action=>'edit',:id=>res['t1'].id) %></td>
+		<%else%>
+			<td class="datos"><%= raw(res['m1']) %></td>
+		<% end %>
+	    <td class="datos"><%= raw(res['m2']) %></td>
+	    <td class="datos"><%= raw(res['m3']) %></td>
+	    <td class="datos"><%= raw(res['m4']) %></td>
+	    <td class="datos"><%= raw(res['m5']) %></td>
+	    <td class="datos"><%= raw(res['m6']) %></td>
+	    <td class="datos"><%= raw(res['m7']) %></td>
+	    <td class="datos"><%= raw(res['m8']) %></td>
+	    <td class="datos"><%= raw(res['m9']) %></td>
+	    <td class="datos"><%= raw(res['m10']) %></td>
+	    <td class="datos"><%= raw(res['m11']) %></td>
+	    <td class="datos"><%= raw(res['m12']) %></td>
+	    <td class="datos"><%= raw(res['tot']) %></td>
 	  </tr>
 	<% end %>
 	</table>
 </div>
-<br />
-
-<%= link_to 'New Task', new_task_path %>

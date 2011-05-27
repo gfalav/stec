@@ -21,7 +21,7 @@ class TasksController < ApplicationController
   end
   
   def avance_recursive(account, res, fini, ffin, namerad)
-    namerad = namerad + '&nbsp;&nbsp;'
+    namerad = namerad + '&nbsp;&nbsp;&nbsp;'
     
     if (account.children.count!=0)
       if (account.children[0].children.count!=0)
@@ -30,7 +30,9 @@ class TasksController < ApplicationController
         res << Task.new.getavanceacum(account, fini, ffin, namerad)
       end
     else
-      res << Task.new.getavance(account, fini, ffin, namerad)
+      if (params[:account_id].to_i == account.parent_id)
+        res << Task.new.getavance(account, fini, ffin, namerad)
+      end
     end
     
     account.children.each { |a|

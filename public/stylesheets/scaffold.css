@@ -1,56 +1,39 @@
-#metas table {
-border-collapse: collapse;
-}
-
 #metas .cuentas{
-	width: 35%;
+	width: 30%;
 	background-color: #F2f5a9;
 	border: 1px solid;
 	text-align:left;
+	height: 35px;
 	font-size: 80%;
-	height: 40px;
 }
-
+#metas .cabecera{
+	width: 5%;
+	background-color: #F2f5a9;
+	border: 1px solid;
+	text-align:center;
+	height: 35px;
+}
+#metas .datos{
+	font-size: 80%;
+	width: 5%;
+	border: 1px solid;
+	text-align:center;
+	height: 35px;
+}
+#metas .list-line-even {
+background: #d0f5a9 ;
+}
+#metas .list-line-odd {
+background: #e6e6e6 ;
+}
 #metas th tr td {
+font-family: "Arial Narrow" ;
 vertical-align: top;
-font-size: 80%;
 text-align:center;
 width: 5%;
 height: 60px;
 border: 1px solid;
 }
-#metas .list-image {
-width: 60px;
-height: 70px;
-}
-#metas .list-description {
-width: 60%;
-}
-#metas .list-description dl {
-margin: 0;
-}
-#metas .list-description dt {
-color: #244 ;
-font-weight: bold;
-font-size: larger;
-}
-#metas .list-description dd {
-margin: 0;
-}
-#metas .list-actions {
-font-size: x-small;
-text-align: right;
-padding-left: 1em;
-}
-#metas .list-line-even {
-background: #d0f5a9 ;
-font-size: 80%;
-}
-#metas .list-line-odd {
-background: #e6e6e6 ;
-font-size: 80%;
-}
-
 body { background-color: #fff; color: #333; }
 
 body, p, ol, ul, td {

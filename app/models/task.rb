@@ -6,6 +6,7 @@ class Task < ActiveRecord::Base
     h = Hash.new
     
     h.store("name",namerad + account.name)
+    h.store("account",account)
 
     for n in 1..12
       f1 = Date.new(fini.year,n.to_i,1)
@@ -16,8 +17,10 @@ class Task < ActiveRecord::Base
       if (t!= nil)
         if (t.treal != nil && t.tplan != nil)
           h.store("m"+n.to_s, t.treal.to_i.to_s + '/' + t.tplan.to_i.to_s + '<br/>' + (t.treal/t.tplan).round(1).to_s + '%')
+          h.store("t"+n.to_s, t)
         else
           h.store("m"+n.to_s, t.treal.to_i.to_s + '/' + t.tplan.to_i.to_s)
+          h.store("t"+n.to_s, t)
         end
       else
         h.store("m"+n.to_s, Task.new)
@@ -30,6 +33,7 @@ class Task < ActiveRecord::Base
   def getavanceacum(account,fini,ffin, namerad)
     h = Hash.new
     h.store("name",namerad + account.name)
+    h.store("account",account)
     
     m = Task.group('extract(month from dtask)').where(:account_id=>account.descendant_ids << account.id,:dtask=>(fini..ffin)).sum(:treal)
     n = Task.group('extract(month from dtask)').where(:account_id=>account.descendant_ids << account.id,:dtask=>(fini..ffin)).sum(:tplan)
@@ -110,6 +114,7 @@ class Task < ActiveRecord::Base
     h = Hash.new
     
     h.store("name",namerad + account.name)
+    h.store("account",account)
     
     for n in 1..12
         h.store("m"+n.to_s, '')
