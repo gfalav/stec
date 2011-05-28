@@ -36,7 +36,20 @@ class TasksController < ApplicationController
     end
     
     account.children.each { |a|
-      avance_recursive(a,res, fini, ffin, namerad)
+      if (params[:account_id].to_i < 2 && a.id < 5)
+        avance_recursive(a,res, fini, ffin, namerad)
+      end
+      if (params[:account_id].to_i > 1)
+        atmp = Array.new
+        atmp = Account.find(params[:account_id].to_i).descendant_ids << Account.find(params[:account_id].to_i).id
+        atmp = atmp + Account.find(params[:account_id].to_i).ancestor_ids
+        atmp2 = Array.new
+        atmp2 << a.id
+        #debugger
+        if ((atmp & atmp2).count>0)
+          avance_recursive(a,res, fini, ffin, namerad)
+        end
+      end
     }
     
   end
