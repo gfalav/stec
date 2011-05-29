@@ -5,9 +5,9 @@ class CreateTasks < ActiveRecord::Migration
       t.text :description
       t.date :dtask
       t.decimal :tplan
-      t.decimal :treal
+      t.decimal :treal, :default=>0
       t.decimal :hsplan
-      t.decimal :hsreal
+      t.decimal :hsreal, :default=>0
 
       t.timestamps
     end

@@ -25,9 +25,9 @@ ActiveRecord::Schema.define(:version => 20110520113457) do
     t.text     "description"
     t.date     "dtask"
     t.decimal  "tplan"
-    t.decimal  "treal"
+    t.decimal  "treal",       :default => 0.0
     t.decimal  "hsplan"
-    t.decimal  "hsreal"
+    t.decimal  "hsreal",      :default => 0.0
     t.datetime "created_at"
     t.datetime "updated_at"
   end

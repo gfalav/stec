@@ -1,6 +1,6 @@
 #metas .cuentas{
 	width: 30%;
-	background-color: #F2f5a9;
+	background-color: #F6E3CE;
 	border: 1px solid;
 	text-align:left;
 	height: 35px;
@@ -8,12 +8,37 @@
 }
 #metas .cabecera{
 	width: 5%;
-	background-color: #F2f5a9;
+	background-color: #F6E3CE;
 	border: 1px solid;
 	text-align:center;
 	height: 35px;
 }
 #metas .datos{
+	background-color: #e6e6e6;
+	font-size: 80%;
+	width: 5%;
+	border: 1px solid;
+	text-align:center;
+	height: 35px;
+}
+#metas .datosred{
+	background-color: #F5A9A9;
+	font-size: 80%;
+	width: 5%;
+	border: 1px solid;
+	text-align:center;
+	height: 35px;
+}
+#metas .datosgreen{
+	background-color: #D0F5A9;
+	font-size: 80%;
+	width: 5%;
+	border: 1px solid;
+	text-align:center;
+	height: 35px;
+}
+#metas .datosyellow{
+	background-color: #F2F5A9;
 	font-size: 80%;
 	width: 5%;
 	border: 1px solid;
@@ -21,7 +46,7 @@
 	height: 35px;
 }
 #metas .list-line-even {
-background: #d0f5a9 ;
+background: #F5F6CE ;
 }
 #metas .list-line-odd {
 background: #e6e6e6 ;
@@ -48,7 +73,7 @@ pre {
   font-size: 11px;
 }
 
-a { text-decoration: none; color:#0000FF; }
+a { text-decoration: none; color:#0B3861; }
 a:visited { text-decoration: none; color: blue;}
 a:hover { text-decoration: none; }
 

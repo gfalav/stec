@@ -20,69 +20,70 @@
 	  </tr>
 	
 	<% @res.each do |res| %>
-	  <tr class="<%=cycle('list-line-odd','list-line-even')%>">
+	  <tr>
+
 	    <td class="cuentas"><%= link_to(raw(res['name']),:controller=>'tasks',:action=>'avance',:account_id=>res['account'][:id]) %></td>
 	    <% if res['t1']!=nil%>
-			<td class="datos"><%= link_to(raw(res['m1']),:controller=>'tasks',:action=>'edit',:id=>res['t1'].id) %></td>
+			<td class="<%=res['s1']%>"><%= link_to(raw(res['m1']),:controller=>'tasks',:action=>'edit',:id=>res['t1'].id) %></td>
 		<%else%>
-			<td class="datos"><%= raw(res['m1']) %></td>
+			<td class="<%=res['s1']%>"><%= raw(res['m1']) %></td>
 		<% end %>
 	    <% if res['t2']!=nil%>
-			<td class="datos"><%= link_to(raw(res['m2']),:controller=>'tasks',:action=>'edit',:id=>res['t2'].id) %></td>
+			<td class="<%=res['s2']%>"><%= link_to(raw(res['m2']),:controller=>'tasks',:action=>'edit',:id=>res['t2'].id) %></td>
 		<%else%>
-			<td class="datos"><%= raw(res['m2']) %></td>
+			<td class="<%=res['s2']%>"><%= raw(res['m2']) %></td>
 		<% end %>
 	    <% if res['t3']!=nil%>
-			<td class="datos"><%= link_to(raw(res['m3']),:controller=>'tasks',:action=>'edit',:id=>res['t3'].id) %></td>
+			<td class="<%=res['s3']%>"><%= link_to(raw(res['m3']),:controller=>'tasks',:action=>'edit',:id=>res['t3'].id) %></td>
 		<%else%>
-			<td class="datos"><%= raw(res['m3']) %></td>
+			<td class="<%=res['s3']%>"><%= raw(res['m3']) %></td>
 		<% end %>
 	    <% if res['t4']!=nil%>
-			<td class="datos"><%= link_to(raw(res['m4']),:controller=>'tasks',:action=>'edit',:id=>res['t4'].id) %></td>
+			<td class="<%=res['s4']%>"><%= link_to(raw(res['m4']),:controller=>'tasks',:action=>'edit',:id=>res['t4'].id) %></td>
 		<%else%>
-			<td class="datos"><%= raw(res['m4']) %></td>
+			<td class="<%=res['s4']%>"><%= raw(res['m4']) %></td>
 		<% end %>
 	    <% if res['t1']!=nil%>
-			<td class="datos"><%= link_to(raw(res['m5']),:controller=>'tasks',:action=>'edit',:id=>res['t5'].id) %></td>
+			<td class="<%=res['s5']%>"><%= link_to(raw(res['m5']),:controller=>'tasks',:action=>'edit',:id=>res['t5'].id) %></td>
 		<%else%>
-			<td class="datos"><%= raw(res['m5']) %></td>
+			<td class="<%=res['s5']%>"><%= raw(res['m5']) %></td>
 		<% end %>
 	    <% if res['t6']!=nil%>
-			<td class="datos"><%= link_to(raw(res['m6']),:controller=>'tasks',:action=>'edit',:id=>res['t6'].id) %></td>
+			<td class="<%=res['s6']%>"><%= link_to(raw(res['m6']),:controller=>'tasks',:action=>'edit',:id=>res['t6'].id) %></td>
 		<%else%>
-			<td class="datos"><%= raw(res['m6']) %></td>
+			<td class="<%=res['s6']%>"><%= raw(res['m6']) %></td>
 		<% end %>
 	    <% if res['t7']!=nil%>
-			<td class="datos"><%= link_to(raw(res['m7']),:controller=>'tasks',:action=>'edit',:id=>res['t7'].id) %></td>
+			<td class="<%=res['s7']%>"><%= link_to(raw(res['m7']),:controller=>'tasks',:action=>'edit',:id=>res['t7'].id) %></td>
 		<%else%>
-			<td class="datos"><%= raw(res['m7']) %></td>
+			<td class="<%=res['s7']%>"><%= raw(res['m7']) %></td>
 		<% end %>
 	    <% if res['t8']!=nil%>
-			<td class="datos"><%= link_to(raw(res['m8']),:controller=>'tasks',:action=>'edit',:id=>res['t8'].id) %></td>
+			<td class="<%=res['s8']%>"><%= link_to(raw(res['m8']),:controller=>'tasks',:action=>'edit',:id=>res['t8'].id) %></td>
 		<%else%>
-			<td class="datos"><%= raw(res['m8']) %></td>
+			<td class="<%=res['s8']%>"><%= raw(res['m8']) %></td>
 		<% end %>
 	    <% if res['t9']!=nil%>
-			<td class="datos"><%= link_to(raw(res['m9']),:controller=>'tasks',:action=>'edit',:id=>res['t9'].id) %></td>
+			<td class="<%=res['s9']%>"><%= link_to(raw(res['m9']),:controller=>'tasks',:action=>'edit',:id=>res['t9'].id) %></td>
 		<%else%>
-			<td class="datos"><%= raw(res['m9']) %></td>
+			<td class="<%=res['s9']%>"><%= raw(res['m9']) %></td>
 		<% end %>
 	    <% if res['t10']!=nil%>
-			<td class="datos"><%= link_to(raw(res['m10']),:controller=>'tasks',:action=>'edit',:id=>res['t10'].id) %></td>
+			<td class="<%=res['s10']%>"><%= link_to(raw(res['m10']),:controller=>'tasks',:action=>'edit',:id=>res['t10'].id) %></td>
 		<%else%>
-			<td class="datos"><%= raw(res['m10']) %></td>
+			<td class="<%=res['s10']%>"><%= raw(res['m10']) %></td>
 		<% end %>
 	    <% if res['t11']!=nil%>
-			<td class="datos"><%= link_to(raw(res['m11']),:controller=>'tasks',:action=>'edit',:id=>res['t11'].id) %></td>
+			<td class="<%=res['s11']%>"><%= link_to(raw(res['m11']),:controller=>'tasks',:action=>'edit',:id=>res['t11'].id) %></td>
 		<%else%>
-			<td class="datos"><%= raw(res['m11']) %></td>
+			<td class="<%=res['s11']%>"><%= raw(res['m11']) %></td>
 		<% end %>
 	    <% if res['t12']!=nil%>
-			<td class="datos"><%= link_to(raw(res['m12']),:controller=>'tasks',:action=>'edit',:id=>res['t12'].id) %></td>
+			<td class="<%=res['s12']%>"><%= link_to(raw(res['m12']),:controller=>'tasks',:action=>'edit',:id=>res['t12'].id) %></td>
 		<%else%>
-			<td class="datos"><%= raw(res['m12']) %></td>
+			<td class="<%=res['s12']%>"><%= raw(res['m12']) %></td>
 		<% end %>
-	    <td class="datos"><%= raw(res['tot']) %></td>
+	    <td class="<%=res['stot']%>"><%= raw(res['tot']) %></td>
 	  </tr>
 	<% end %>
 	</table>

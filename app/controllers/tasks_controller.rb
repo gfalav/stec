@@ -16,7 +16,7 @@ class TasksController < ApplicationController
     
     #ejecución recursiva
     avance_recursive(Account.find(1), @res, fini, ffin,'')
-
+    
     #render :text => res
   end
   
@@ -57,7 +57,7 @@ class TasksController < ApplicationController
   # GET /tasks
   # GET /tasks.xml
   def index
-    @tasks = Task.all
+    @tasks = Task.order('account_id','dtask')
 
     respond_to do |format|
       format.html # index.html.erb
