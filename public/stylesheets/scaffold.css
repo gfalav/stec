@@ -45,6 +45,14 @@
 	text-align:center;
 	height: 35px;
 }
+#metas .datosorange{
+	background-color: #FAAC58;
+	font-size: 80%;
+	width: 5%;
+	border: 1px solid;
+	text-align:center;
+	height: 35px;
+}
 #metas .list-line-even {
 background: #F5F6CE ;
 }

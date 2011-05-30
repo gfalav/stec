@@ -13,18 +13,18 @@ class Task < ActiveRecord::Base
       f2 = Date.new(fini.year,n.to_i,1).next_month-1
       
       t = Task.where(:account_id=>account.id,:dtask=>f1..f2)[0]
-
+  
       if (t!= nil)
-        if (t.tplan != nil)
-          h.store("m"+n.to_s, t.treal.to_i.to_s + '/' + t.tplan.to_i.to_s + '<br/>' + (t.treal.to_f/t.tplan.to_f).round(1).to_s + '%')
-          h.store("t"+n.to_s, t)
+        if (t.tplan != nil && t.tplan!=0)
+          h.store("m"+n.to_s, t.treal.to_i.to_s + '/' + t.tplan.to_i.to_s + '<br/>' + (t.treal/t.tplan).round(1).to_s + '%')
           h.store("s"+n.to_s, colorbg((t.treal/t.tplan*100).round(0)))
         else
           h.store("m"+n.to_s, t.treal.to_i.to_s + '/' + t.tplan.to_i.to_s)
-          h.store("t"+n.to_s, t)
+          h.store("s"+n.to_s, 'datos')
         end
       else
         h.store("m"+n.to_s, 's/t')
+        h.store("s"+n.to_s, 'datos')
       end
     end
     
